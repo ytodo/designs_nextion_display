@@ -12,6 +12,6 @@ D-STAR専用、DStarRepeaer のログファイルを読むことで Nextion の�
 従って既に DStarRepeater が稼働していればGPIO接続ですぐに表示させることが出来ます。<br><br>
 ４．JE3HCZ_2.4_dmonitor_v1.1<br>
 ５．JE3HCZ_2.4ud_dmonitor_v1.1<br><br>
-バッファ拡張、縮小機能と、自動アップデートボタンを追加したバージョン
+バッファ拡張、縮小機能と、自動アップデートボタンを追加したバージョン<br>
 ６．JE3HCZ_2.4_dmonitor_v1.2<br>
 ７．JE3HCZ_2.4_dmonitor_v1.2_ud<br>
