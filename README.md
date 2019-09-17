@@ -10,9 +10,9 @@ D-STAR専用、DStarRepeaer のログファイルを読むことで Nextion の�
 <b>JE3HCZ_2.4_Nextion_DStarRepeater_v1.0</b> で表示させています。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 従って既に DStarRepeater が稼働していればGPIO接続ですぐに表示させることが出来ます。<br><br>
-４．JE3HCZ_2.4_dmonitor_v1.1<br>
-５．JE3HCZ_2.4ud_dmonitor_v1.1<br><br>
-バッファ拡張、縮小機能と、自動アップデートボタンを追加したバージョン<br>
+４．JE3HCZ_2.4_dmonitor_v1.4<br>
+詳しくはリリースドキュメントをご覧ください。<br>
 ファイル名最後に <b>_e</b> のついたものが16MBメモリーの拡張版用です。<br>
+又下記のようにudと付いた物は上下反対の物を指します。
 ６．JE3HCZ_2.4_dmonitor_v1.4<br>
 ７．JE3HCZ_2.4ud_dmonitor_v1.4<br>
