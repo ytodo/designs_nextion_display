@@ -6,8 +6,9 @@ Nextion 用 HMI 及び tft ファイル集
 
   <li>JE3HCZ_2.4_Nextion_DStarRepeater_v1.1</li>
     D-STAR専用、DStarRepeaer のログファイルを読むことで Nextion の表示を実現する「nextion_dstar」の<br>
-
+    JE3HCZ_2.4_Nextion_DStarRepeater_v1.0を使用します。
 <li>JE3HCZ_2.4_Nextion_ircDDBGateway_v0.1</li>
+
 <li>JE3HCZ_2.4_dmonitor_v1.5</li>
 <ul>
 <img src="https://todo.vc/download/app/dmonitor/dmon_users.jpg" alt="D\*MONITOR Remote Users Page" align="right" width="200">
