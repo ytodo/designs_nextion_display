@@ -12,7 +12,7 @@ D-STAR専用、DStarRepeaer のログファイルを読むことで Nextion の�
 従って既に DStarRepeater が稼働していればGPIO接続ですぐに表示させることが出来ます。<br><br>
 ４．JE3HCZ_2.4_dmonitor_v1.5<br>
 <ul>
-<img src="https://todo.vc/download/app/dmonitor/dmon_users.jpg" alt="D\*MONITOR Remote Users Page" align="right" width="300">
+<img src="https://todo.vc/download/app/dmonitor/dmon_users.jpg" alt="D\*MONITOR Remote Users Page" align="right" width="200">
   <li>ドライバについてはリリースドキュメントをご覧ください。（現在テスト中）</li>
   <li>ファイル名最後に <b>_e</b> のついたものが16MBメモリーの拡張版用です。</li>
   <li>又下記のようにudと付いた物は上下反対の物を指します。</li>
