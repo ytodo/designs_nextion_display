@@ -11,7 +11,7 @@ D-STAR専用、DStarRepeaer のログファイルを読むことで Nextion の�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 従って既に DStarRepeater が稼働していればGPIO接続ですぐに表示させることが出来ます。<br><br>
 ４．JE3HCZ_2.4_dmonitor_v1.5<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ドライバについてはリリースドキュメントをご覧ください。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ドライバについてはリリースドキュメントをご覧ください。（現在テスト中）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ファイル名最後に <b>_e</b> のついたものが16MBメモリーの拡張版用です。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又下記のようにudと付いた物は上下反対の物を指します。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JE3HCZ_2.4_dmonitor_v1.5.tft<br>
