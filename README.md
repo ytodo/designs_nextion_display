@@ -3,7 +3,7 @@ Nextion 用 HMI 及び tft ファイル集
 
 <ol>
   <li>JE3HCZ_2.4_NectionDriver_MMDVM_v3.0</li>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQ8taxJXEkg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <li>JE3HCZ_2.4_Nextion_DStarRepeater_v1.1</li>
     D-STAR専用、DStarRepeaer のログファイルを読むことで Nextion の表示を実現する「nextion_dstar」の<br>
     JE3HCZ_2.4_Nextion_DStarRepeater_v1.0を使用します。
