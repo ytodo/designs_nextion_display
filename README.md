@@ -1,6 +1,6 @@
 # designs_nextion_display
 Nextion 用 HMI 及び tft ファイル集
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gq1Uq3CPKCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <ol>
   <li>JE3HCZ_2.4_NectionDriver_MMDVM_v3.0</li>
   <li>JE3HCZ_2.4_Nextion_DStarRepeater_v1.1</li>
