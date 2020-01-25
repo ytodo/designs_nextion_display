@@ -1,5 +1,4 @@
-# designs_nextion_display
-Nextion 用 HMI 及び tft ファイル集（2.4のみ）
+<h2>Nextion 用 HMI 及び tft ファイル集（2.4のみ）</h2>
 
 <ol>
   <li>JE3HCZ_2.4_NectionDriver_MMDVM_v3.0</li>
