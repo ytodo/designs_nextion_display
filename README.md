@@ -14,8 +14,9 @@
   </ul><br clear="all">
   <li>JE3HCZ_2.4_dmonitor_v1.6</li>
   <ul>
-    <img src="https://todo.vc/download/app/dmonitor/dmon_main.jpg" alt="D\*MONITOR MAIN Page" align="left" width="200">
-    <img src="https://todo.vc/download/app/dmonitor/dmon_active.jpg" alt="D\*MONITOR Active Repeaters Page" align="left" width="200">
+    <img src="https://todo.vc/download/app/dmonitor/dmon_active.jpg" alt="D\*MONITOR Active Repeaters Page" align="right" width="200">
+    <img src="https://todo.vc/download/app/dmonitor/dmon_main.jpg" alt="D\*MONITOR MAIN Page" align="right" width="200">
+
     <li>ドライバについてはリリースドキュメントをご覧ください。（現在テスト中）</li>
     <li>ファイル名最後に <b>_e</b> のついたものが16MBメモリーの拡張版用です。</li>
     <li>又下記のようにudと付いた物は上下反対の物を指します。</li>
