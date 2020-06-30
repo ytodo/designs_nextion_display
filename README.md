@@ -10,9 +10,8 @@
     アプリを使用しますが<b>未完成</b>です。（取り敢えず表示可能） gitclone してください。
   <li>JE3HCZ_2.4_dmonitor_v1.5</li>
   <ul>
-    <img src="https://todo.vc/download/app/dmonitor/dmon_users.jpg" alt="D\*MONITOR Remote Users Page" align="right" width="200">
-    
-  </ul>
+    <img src="https://todo.vc/download/app/dmonitor/dmon_users.jpg" alt="D\*MONITOR Remote Users Page" align="left" width="200">
+  </ul><br clear="all">
   <li>JE3HCZ_2.4_dmonitor_v1.6</li>
   <ul>
     <img src="https://todo.vc/download/app/dmonitor/dmon_main.jpg" alt="D\*MONITOR MAIN Page" align="left" width="200">
