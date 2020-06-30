@@ -19,7 +19,7 @@
   </ul>
   <li>JE3HCZ_2.4_dmonitor_v1.6</li>
   <ul>
-  <img src="https://todo.vc/download/app/dmonitor/dmon_main.jpg" alt="D\*MONITOR MAIN Page" align="right" width="200">
-  <img src="https://todo.vc/download/app/dmonitor/dmon_active.jpg" alt="D\*MONITOR Active Repeaters Page" align="right" width="200">
+  <img src="https://todo.vc/download/app/dmonitor/dmon_main.jpg" alt="D\*MONITOR MAIN Page" align="left" width="200">
+  <img src="https://todo.vc/download/app/dmonitor/dmon_active.jpg" alt="D\*MONITOR Active Repeaters Page" align="left" width="200">
 </ul>
 </ol>
